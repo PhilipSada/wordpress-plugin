@@ -1,0 +1,2 @@
+## Wordpress Plugin
+This Wordpress plugin ("Awesome Plugin") was created using this plugin boilerplate (https://github.com/JUVOJustin/wordpress-plugin-boilerplate) and post type called "Awesomes" was registered using the extended-cpts (https://github.com/johnbillion/extended-cpts). The code can be found in the main file (index.php) of the awesome plugin.
